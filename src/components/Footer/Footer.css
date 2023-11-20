@@ -1,8 +1,17 @@
 .footer {
-    background-color: #6278f7;
-    text-align: center;
+    background: #6278F7;
+    color: #FFF;
+    padding: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
-.footer img{
-    max-width: 100%;
+.footer ul li {
+    display: inline-block;
+    margin-right: 32px;
+}
+
+.footer ul li:last-child {
+    margin-right: 0;
 }

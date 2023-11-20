@@ -14,7 +14,7 @@
     bottom: -50px;
 }
 
-.employee .footer {
+.employee-footer {
     background-color: #FFF;
     box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.08);
     border-radius: 0px 0px 10px 10px;
@@ -22,7 +22,7 @@
     padding-bottom: 40px;
 }
 
-.employee .footer h4 {
+.employee-footer h4 {
     color: #6278f7;
     text-align: center;
     font-size: 18px;
@@ -30,7 +30,7 @@
     line-height: normal;
 }
 
-.employee .footer h5 {
+.employee-footer h5 {
     color: #212121;
     text-align: center;
     font-size: 16px;
